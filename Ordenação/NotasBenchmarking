@@ -1,0 +1,12 @@
+# Notas de benchmarking(bm)
+
+-Algorítmos ordenados em ordem de eficiência média:
+Foram realizadas 3 medições para cada algorítmo
+(tempo representado em segundos)
+
+bubble sort: 0.113|0.089|0.095
+selection sort: 0.041|0.041|0.057
+insert sort: 0.034|0.066|0.033
+merge sort: 0.008|0.000|0.003
+quick sort: 0.002|0.000|0.000
+
